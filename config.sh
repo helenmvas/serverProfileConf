@@ -13,3 +13,5 @@ ln -s serverProfileConf/.oh-my-zsh .
 
 # set zsh as default shell
 chsh -s /bin/zsh
+
+source ~/.zshrc
